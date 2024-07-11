@@ -8,7 +8,7 @@
 
 ### About Me:
 
-- My center of attention is both Frontend.
+- My center of attention is Frontend.
 
 - Currently working on my Thesis on Natural Language Processing.
 
